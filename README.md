@@ -58,3 +58,4 @@ console.log(`Average score: ${stats.averageScore}`);
 MIT
 Update 1 on 2014-01-13 21:45:07
 Update 4 on 2014-01-16 14:26:53
+Update 5 on 2014-01-16 00:23:02
